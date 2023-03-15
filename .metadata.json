@@ -1,18 +1,18 @@
 [
   {
-    "package": "codebreaker",
-    "oncran": true
-  },
-  {
-    "package": "explore",
-    "oncran": true
-  },
-  {
     "package": "pixelpuzzle",
     "oncran": true
   },
   {
     "package": "tidydice",
+    "oncran": true
+  },
+  {
+    "package": "codebreaker",
+    "oncran": true
+  },
+  {
+    "package": "explore",
     "oncran": true
   }
 ]
