@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "codebreaker"]
 	path = codebreaker
 	url = https://github.com/rolkra/codebreaker
-	shallow = true
-	registered = true
 [submodule "explore"]
 	path = explore
 	url = https://github.com/rolkra/explore
-	shallow = true
-	registered = true
 [submodule "pixelpuzzle"]
 	path = pixelpuzzle
 	url = https://github.com/rolkra/pixelpuzzle
-	shallow = true
-	registered = true
 [submodule "tidydice"]
 	path = tidydice
 	url = https://github.com/rolkra/tidydice
-	shallow = true
-	registered = true
