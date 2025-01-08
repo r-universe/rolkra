@@ -5,6 +5,9 @@
 [submodule "codebreaker"]
 	path = codebreaker
 	url = https://github.com/rolkra/codebreaker
+[submodule "creepyalien"]
+	path = creepyalien
+	url = https://github.com/rolkra/creepyalien
 [submodule "explore"]
 	path = explore
 	url = https://github.com/rolkra/explore
@@ -14,3 +17,6 @@
 [submodule "tidydice"]
 	path = tidydice
 	url = https://github.com/rolkra/tidydice
+[submodule "utf8ify"]
+	path = utf8ify
+	url = https://github.com/rolkra/utf8ify
